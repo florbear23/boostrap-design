@@ -1,0 +1,49 @@
+main {
+  max-width: 1250px;
+  margin: 0 auto;
+}
+.nav-area {
+  background: linear-gradient(138deg, #000000 9%, #50ae1f 95%);
+  overflow: hidden;
+}
+
+.menu-list {
+  color: #fff !important;
+}
+.over {
+  overflow: hidden;
+  background: linear-gradient(138deg, #000000 9%, #50ae1f 95%);
+}
+
+.btn-area .col-md-12 div ul li a {
+  background: linear-gradient(138deg, #000000 9%, #50ae1f 95%) !important;
+  color: #fff;
+  margin: 5px 0;
+}
+
+.btn-area .col-md-12 div ul li a:hover {
+  background: black !important;
+}
+
+.footer-area {
+  background: linear-gradient(138deg, #000000 9%, #50ae1f 95%) !important;
+}
+
+.footer .container .row a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer .container .row a :hover {
+  background-color: chartreuse !important;
+  color: white;
+}
+
+.width-area {
+  max-width: 1250px;
+  margin: 0 auto;
+}
+
+.center {
+  text-align: center;
+}
